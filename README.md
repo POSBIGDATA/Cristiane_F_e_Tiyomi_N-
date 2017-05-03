@@ -1,3 +1,3 @@
-# Cristiane_F_e_Tiyomi_N-
-
 # Hadoop MapReduce for Big Data - Português
+#
+# Team: Cristiane Fagundes and Tiyomi Nakaba
